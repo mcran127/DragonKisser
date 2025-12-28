@@ -6,7 +6,9 @@
 #include "FrontendPlayerState.generated.h"
 
 /**
- * 
+ * @class AFrontendPlayerState
+ *
+ * Player state class, no content in here currently
  */
 UCLASS(NotBlueprintable)
 class DRAGONKISSERST2_API AFrontendPlayerState : public APlayerState

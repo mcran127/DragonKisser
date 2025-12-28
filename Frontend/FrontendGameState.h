@@ -7,6 +7,8 @@
 #include "FrontendGameState.generated.h"
 
 /**
+ * @class AFrontendGameState
+ *
  * Frontend Game State
  */
 UCLASS()

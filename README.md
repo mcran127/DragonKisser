@@ -26,4 +26,4 @@ My official involvement with this project ended at the end of 2025. Production i
 
 #### Gameplay as of my leaving
 
-Link will be provided soon
+[Playlist of some of the gameplay.](https://youtube.com/playlist?list=PL9kCz4lZXPtBpXhKz2Jk2giC_IbAuGoUW&si=3wn5jkKqCxxJghS5) Other videos of weekly uploads can be viewed on the channel
